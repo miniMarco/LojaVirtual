@@ -7,5 +7,6 @@ namespace LojaVirtual.Web.Controllers
 {
     public class Class1
     {
+        int v = 0;
     }
 }
